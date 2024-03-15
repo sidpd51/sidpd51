@@ -54,7 +54,7 @@ I am currently focusing on mastering JavaScript, including:
 
 ## Connect with Me
 
-- LinkedIn: [Siddharth Prasad Newar](link_to_linkedin_profile)
-- Twitter: [@your_twitter_handle](link_to_twitter_profile)
+- LinkedIn: [Siddharth Prasad Newar]([link_to_linkedin_profile](https://in.linkedin.com/in/siddharth-prasad-newar-121a16203))
+- Twitter: [@your_twitter_handle](sidpd1)
 
 Feel free to explore my projects and reach out for collaboration or discussions!
