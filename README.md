@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Node, Express, Tailwind, React, Redux, etc.**
 
-- 👯 I’m looking to collaborate on **Food delivery App**
+- 👯 I’m looking to collaborate on **Full Stack Library Management App**
 
 - 💬 Ask me about **css, js, react**
 
