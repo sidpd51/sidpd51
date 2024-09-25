@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/@sidpd1" target="blank"><img src="https://img.shields.io/twitter/follow/@sidpd1?logo=twitter&style=for-the-badge" alt="@sidpd1" /></a> </p>
 
-- 🔭 I’m currently working on **Food delivery App**
+- 🔭 I’m currently working on **Air Ticket Reservation**
 
-- 🌱 I’m currently learning **Tailwind, React, Redux, etc.**
+- 🌱 I’m currently learning **Node, Express, Tailwind, React, Redux, etc.**
 
 - 👯 I’m looking to collaborate on **Food delivery App**
 
