@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Library Management App**
 
-- 💬 Ask me about **css, js, react**
+- 💬 Ask me about **css, js, node, express, sql**
 
 - 📫 How to reach me **sidpd510@gmail.com**
 
