@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Ecommerce Platform (Based on microservice arch)**
 
-- 🌱 I’m currently learning **Node, Express, Tailwind, React, Redux, etc.**
+- 🌱 I’m currently learning **Node, Mongo, MySql, Sequelize, Express, Inversify, Mongoose, express-validator etc.**
 
-- 👯 I’m looking to collaborate on **Full Stack Library Management App**
+- 👯 I’m looking to collaborate on **Full Stack Ecommerce Platform**
 
 - 💬 Ask me about **css, js, node, express, sql**
 
