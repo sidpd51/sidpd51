@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@sidpd1" target="blank"><img src="https://img.shields.io/twitter/follow/@sidpd1?logo=twitter&style=for-the-badge" alt="@sidpd1" /></a> </p>
 
-- 🔭 I’m currently working on **Ecommerce Platform (Based on microservice arch)**
+- 🔭 I’m currently working on **Airbnb (Based on microservice arch)** and **CultFit (Based on monolith)**
 
 - 🌱 I’m currently learning **Node, Mongo, MySql, Sequelize, Express, Inversify, Mongoose, express-validator etc.**
 
